@@ -1,0 +1,16 @@
+C:\Users\Rayan\Desktop\practice systems\Quiz Game GUI\bin\Debug\net6.0-windows\Quiz Game GUI.exe
+C:\Users\Rayan\Desktop\practice systems\Quiz Game GUI\bin\Debug\net6.0-windows\Quiz Game GUI.deps.json
+C:\Users\Rayan\Desktop\practice systems\Quiz Game GUI\bin\Debug\net6.0-windows\Quiz Game GUI.runtimeconfig.json
+C:\Users\Rayan\Desktop\practice systems\Quiz Game GUI\bin\Debug\net6.0-windows\Quiz Game GUI.dll
+C:\Users\Rayan\Desktop\practice systems\Quiz Game GUI\bin\Debug\net6.0-windows\Quiz Game GUI.pdb
+C:\Users\Rayan\Desktop\practice systems\Quiz Game GUI\obj\Debug\net6.0-windows\Quiz_Game_GUI.Form1.resources
+C:\Users\Rayan\Desktop\practice systems\Quiz Game GUI\obj\Debug\net6.0-windows\Quiz Game GUI.csproj.GenerateResource.cache
+C:\Users\Rayan\Desktop\practice systems\Quiz Game GUI\obj\Debug\net6.0-windows\Quiz Game GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rayan\Desktop\practice systems\Quiz Game GUI\obj\Debug\net6.0-windows\Quiz Game GUI.AssemblyInfoInputs.cache
+C:\Users\Rayan\Desktop\practice systems\Quiz Game GUI\obj\Debug\net6.0-windows\Quiz Game GUI.AssemblyInfo.cs
+C:\Users\Rayan\Desktop\practice systems\Quiz Game GUI\obj\Debug\net6.0-windows\Quiz Game GUI.csproj.CoreCompileInputs.cache
+C:\Users\Rayan\Desktop\practice systems\Quiz Game GUI\obj\Debug\net6.0-windows\Quiz Game GUI.dll
+C:\Users\Rayan\Desktop\practice systems\Quiz Game GUI\obj\Debug\net6.0-windows\refint\Quiz Game GUI.dll
+C:\Users\Rayan\Desktop\practice systems\Quiz Game GUI\obj\Debug\net6.0-windows\Quiz Game GUI.pdb
+C:\Users\Rayan\Desktop\practice systems\Quiz Game GUI\obj\Debug\net6.0-windows\Quiz Game GUI.genruntimeconfig.cache
+C:\Users\Rayan\Desktop\practice systems\Quiz Game GUI\obj\Debug\net6.0-windows\ref\Quiz Game GUI.dll
